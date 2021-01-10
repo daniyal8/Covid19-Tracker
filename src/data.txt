@@ -1,0 +1,9 @@
+https://covid-19-coronavirus-statistics.p.rapidapi.com/v1/stats?country=Canada
+
+https://covid-19-coronavirus-statistics.p.rapidapi.com/v1/total
+
+https://covid-19-coronavirus-statistics.p.rapidapi.com/v1/stats
+
+x-rapidapi-key  e563991cb1msh50e5bc535269c40p1ee7f9jsnbfe19f892591
+
+x-rapidapi-host  covid-19-coronavirus-statistics.p.rapidapi.com
